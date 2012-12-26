@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+        <fieldset
+                name="uploadcare"
+                label="COM_UPLOADCARE_SETTINGS_LABEL"
+                description="COM_UPLOADCARE_SETTINGS_DESC"
+        >
+                <field
+                        name="publickey"
+                        type="text"
+                        label="COM_UPLOADCARE_PUBLICKEY_LABEL"
+                        default="demopublickey"
+                />
+                <field
+                        name="secretkey"
+                        type="text"
+                        label="COM_UPLOADCARE_SECRETKEY_LABEL"
+                        default="demoprivatekey"
+                />				
+        </fieldset>
+</config>

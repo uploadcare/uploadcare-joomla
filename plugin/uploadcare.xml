@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.6/plugin-install.dtd">
+<extension type="plugin" group="editors-xtd" version="1.6.0" method="upgrade">
+  <name>Uploadcare</name>
+  <creationDate>Dec 2012</creationDate>
+  <author>Gray Hound</author>
+  <authorEmail>gh@whitescape.com</authorEmail>
+  <authorUrl>https://uploadcare.com/</authorUrl>
+  <license>GPL</license>
+  <version>1.0</version>
+  <description>Adds a button for editor to upload files using uploadcare.com</description>
+  <files>
+    <filename plugin="uploadcare">uploadcare.php</filename>
+    <filename>index.html</filename>
+    <filename>logo.png</filename>
+  </files>
+</extension>

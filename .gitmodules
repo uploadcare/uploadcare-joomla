@@ -1,0 +1,3 @@
+[submodule "component/admin/uploadcare-php"]
+	path = component/admin/uploadcare-php
+	url = git://github.com/uploadcare/uploadcare-php.git

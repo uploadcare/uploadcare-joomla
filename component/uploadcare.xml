@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.6/component-install.dtd">
+<extension type="component" version="2.5.0" method="upgrade">
+	<name>COM_UPLOADCARE</name>
+	<author>Uploadcare</author>
+	<creationDate>December 2012</creationDate>
+	<license>GPL2</license>
+	<authorEmail>gh@whitescape.com</authorEmail>
+	<authorUrl>www.uploadcare.com</authorUrl>
+	<version>1.0.0</version>
+	<description>Uploadcare component</description>
+	<install>
+        <sql>
+			<file driver="mysql" charset="utf8">sql/install.mysql.utf8.sql</file>
+        </sql>
+    </install>
+    <uninstall>
+		<sql>
+			<file driver="mysql" charset="utf8">sql/uninstall.mysql.utf8.sql</file>
+		</sql>
+    </uninstall>	
+	<administration>
+		<menu img="../administrator/components/com_uploadcare/images/logo.png">COM_UPLOADCARE_MENU</menu>	
+		<submenu></submenu>
+		<files folder="admin">
+			<filename>uploadcare.php</filename>
+			<filename>controller.php</filename>
+			<filename>index.html</filename>
+			<filename>config.xml</filename>
+			<folder>views</folder>
+			<folder>images</folder>
+			<folder>models</folder>
+			<folder>sql</folder>
+			<folder>uploadcare-php</folder>
+		</files>
+		<languages folder="admin">
+		  <language tag="en-GB">language/en-GB/en-GB.com_uploadcare.ini</language>
+		  <language tag="en-GB">language/en-GB/en-GB.com_uploadcare.sys.ini</language>
+		</languages>		
+	</administration>
+</extension>

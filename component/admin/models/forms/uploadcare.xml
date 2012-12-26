@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+        <fieldset>
+                <field
+                        name="publickey"
+                        type="text"
+                        label="COM_UPLOADCARE_PUBLICKEY_LABEL"
+                        default="demopublickey"
+                />
+                <field
+                        name="secretkey"
+                        type="text"
+                        label="COM_UPLOADCARE_SECRETKEY_LABEL"
+                        default="demoprivatekey"
+                />		
+        </fieldset>
+</form>
