@@ -8,6 +8,7 @@ It's based on a [uploadcare-php][4] library.
 
 - Joomla 2.5+
 - PHP 5.2+
+- php-curl
 
 ## Install 
 
