@@ -38,6 +38,9 @@ Press "Insert" and image will be inserted inside editor.
 
 ### com_uploadcare
 
+**1.0.1** ([Download](https://ucarecdn.com/72968548-786a-4c1c-9238-09abf9ea580c/com_uploadcare.zip))
+* Bugfix
+
 **1.0.0** ([Download](https://ucarecdn.com/c90ebb89-7e4f-44ce-9af5-decf116c35c5/com_uploadcare.zip))
 
 ### plg_uploadcare
