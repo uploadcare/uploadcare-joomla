@@ -38,6 +38,9 @@ Press "Insert" and image will be inserted inside editor.
 
 ### com_uploadcare
 
+**1.0.2** ([Download](https://ucarecdn.com/0c0babce-c1cf-4b6f-b429-ee8fb473cb68/com_uploadcare.zip))
+* New widget version 0.6.3
+
 **1.0.1** ([Download](https://ucarecdn.com/72968548-786a-4c1c-9238-09abf9ea580c/com_uploadcare.zip))
 * Bugfix
 
