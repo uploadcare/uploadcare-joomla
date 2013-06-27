@@ -51,7 +51,7 @@ Press "Insert" and image will be inserted inside editor.
 **1.0.0**([Download](https://ucarecdn.com/c69c82dd-a982-438b-944f-c89287e5e1e8/plg_uploadcare.zip))
 
 [1]: https://uploadcare.com/
-[2]: https://uploadcare.com/documentation/reference/basic/cdn.html
+[2]: https://uploadcare.com/documentation/cdn/
 [3]: https://github.com/uploadcare/uploadcare-joomla#releases
 [4]: https://github.com/uploadcare/uploadcare-php
 [5]: http://joomla.org/
