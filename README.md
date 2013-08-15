@@ -38,6 +38,9 @@ Press "Insert" and image will be inserted inside editor.
 
 ### com_uploadcare
 
+**1.0.2** ([Download](https://ucarecdn.com/0c0babce-c1cf-4b6f-b429-ee8fb473cb68/com_uploadcare.zip))
+* New widget version 0.6.3
+
 **1.0.1** ([Download](https://ucarecdn.com/72968548-786a-4c1c-9238-09abf9ea580c/com_uploadcare.zip))
 * Bugfix
 
@@ -48,7 +51,7 @@ Press "Insert" and image will be inserted inside editor.
 **1.0.0**([Download](https://ucarecdn.com/c69c82dd-a982-438b-944f-c89287e5e1e8/plg_uploadcare.zip))
 
 [1]: https://uploadcare.com/
-[2]: https://uploadcare.com/documentation/reference/basic/cdn.html
+[2]: https://uploadcare.com/documentation/cdn/
 [3]: https://github.com/uploadcare/uploadcare-joomla#releases
 [4]: https://github.com/uploadcare/uploadcare-php
 [5]: http://joomla.org/
